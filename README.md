@@ -197,4 +197,14 @@ undefined property indicates that a variable has not been assigned a value inclu
 20. What is DOM?
 
 21. Differentiate between div tag and span in HTML5.
-
+```
+design system- Storybook
+way to secure frontend code
+how to look into the memory leak problem
+Sentry: Application Monitoring and Error Tracking Software
+pwas,  SPA
+Rendering techniques
+CSS architectures, Preprocessors
+accessibility
+web components
+```
