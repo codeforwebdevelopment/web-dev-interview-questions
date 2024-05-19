@@ -1,15 +1,15 @@
 # web-dev-interview-questions
 
-1. What are the ways to reduce page loading time?
+- What are the ways to reduce page loading time?
 Lazy loading
 Build optimization
 minification
 
-2. Why use HTTP 2.0 over HTTP 1.1?
+- Why use HTTP 2.0 over HTTP 1.1?
 HTTP/1.1 loads resources one after the other, so if one resource cannot be loaded, it blocks all the other resources behind it. In contrast, HTTP/2 is able to use a single TCP connection to send multiple streams of data at once so that no one resource blocks any other resource
-3. Differentiate between Canvas and SVG.
+- Differentiate between Canvas and SVG.
 
-4. Explain the new APIs provided by HTML5.
+- Explain the new APIs provided by HTML5.
 <table>
 <tbody><tr>
 <th>API</th>
@@ -197,14 +197,13 @@ undefined property indicates that a variable has not been assigned a value inclu
 20. What is DOM?
 
 21. Differentiate between div tag and span in HTML5.
-```
-design system- Storybook
-way to secure frontend code
-how to look into the memory leak problem
-Sentry: Application Monitoring and Error Tracking Software
-pwas,  SPA
-Rendering techniques
-CSS architectures, Preprocessors
-accessibility
-web components
-```
+- design system- Storybook
+- way to secure frontend code
+- how to look into the memory leak problem
+- Sentry: Application Monitoring and Error Tracking Software
+- pwas,  SPA
+- Rendering techniques
+- CSS architectures, Preprocessors
+- accessibility
+- web components
+
