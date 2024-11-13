@@ -165,6 +165,7 @@ HTML5.</td>
 
 5. Explain CORS.
 Cross-origin resource sharing (CORS) is a browser mechanism which enables controlled access to resources located outside of a given domain.
+Browsers allow a web page to make AJAX requests only with in the same domain. Browser security prevents a web page from making AJAX requests to another domain. This is called same origin policy. 
 
 7. Difference between null value and undefined value.
 null is a special keyword that indicates an absence of value.
