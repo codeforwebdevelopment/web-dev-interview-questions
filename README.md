@@ -10,6 +10,8 @@ HTTP/1.1 loads resources one after the other, so if one resource cannot be loade
 - Differentiate between Canvas and SVG.
 
 - Explain the new APIs provided by HTML5.
+
+```html
 <table>
 <tbody><tr>
 <th>API</th>
@@ -162,10 +164,10 @@ the need to work around the same-origin policy errors and to make
 HTML5.</td>
 </tr>
 </tbody></table>
-
+    ```
 5. Explain CORS.
 Cross-origin resource sharing (CORS) is a browser mechanism which enables controlled access to resources located outside of a given domain.
-Browsers allow a web page to make AJAX requests only with in the same domain. Browser security prevents a web page from making AJAX requests to another domain. This is called same origin policy. 
+Browsers allow a web page to make AJAX requests only with in the same domain. Browser security prevents a web page from making AJAX requests to another domain. This is called same origin policy.
 
 7. Difference between null value and undefined value.
 null is a special keyword that indicates an absence of value.
@@ -198,6 +200,7 @@ undefined property indicates that a variable has not been assigned a value inclu
 20. What is DOM?
 
 21. Differentiate between div tag and span in HTML5.
+
 - design system- Storybook
 - way to secure frontend code
 - how to look into the memory leak problem
@@ -207,4 +210,3 @@ undefined property indicates that a variable has not been assigned a value inclu
 - CSS architectures, Preprocessors
 - accessibility
 - web components
-
