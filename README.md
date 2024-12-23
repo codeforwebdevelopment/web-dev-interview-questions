@@ -210,3 +210,24 @@ undefined property indicates that a variable has not been assigned a value inclu
 - CSS architectures, Preprocessors
 - accessibility
 - web components
+
+------------------------
+Difference Between Dynamic & Static Web Pages
+Static Web pages display the exact same information whenever anyone visits it. Static Web pages do not have to be simple plain text. 
+They can feature detailed multimedia design and even videos. 
+However, every visitor to that page will be greeted by the exact same text, multimedia design or video every time he visits the page until you alter that page's source code.
+
+Dynamic Web pages are capable of producing different content for different visitors from the same source code file. 
+The website can display different content based on what operating system or browser the visitor is using, whether she is using a PC or a mobile device, 
+or even the source that referred the visitor. A dynamic Web page is not necessarily better than a static Web page
+eg-online shopping website
+
+----------------------------------
+Client-side and Server-side Scripting
+A script is a set of instructions. For Web pages they are instructions either to the Web browser (client-side scripting) or to the server (server-side scripting).
+The client-side environment used to run scripts is usually a browser. The processing takes place on the end users computer.
+The source code is transferred from the web server to the users computer over the internet and run directly in the browser.
+
+The server-side environment that runs a scripting language is a web server. 
+A user's request is fulfilled by running a script directly on the web server to generate dynamic HTML pages. 
+This HTML is then sent to the client browser. It is usually used to provide interactive web sites that interface to databases or other data stores on the server.
