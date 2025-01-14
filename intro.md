@@ -231,3 +231,11 @@ The source code is transferred from the web server to the users computer over th
 The server-side environment that runs a scripting language is a web server. 
 A user's request is fulfilled by running a script directly on the web server to generate dynamic HTML pages. 
 This HTML is then sent to the client browser. It is usually used to provide interactive web sites that interface to databases or other data stores on the server.
+
+Softwares for development
+Chrome - done		
+Vscode - done		
+Github - done		
+ Node - done		
+Postman - done		
+Github desktop or sourcetree - done		
